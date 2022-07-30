@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    /* padding: 0; */
+}
+h1
+{
+    color: orangered;
+    text-align: center;
+}
+table
+{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border: solid 2px green;
+    margin-top: 40px;
+}
+th
+{
+    border: solid 2px red;
+}
+td
+{
+    border: solid 2px blue;
+}
