@@ -20,3 +20,7 @@ td
 {
     border: solid 2px blue;
 }
+.totalRow{
+    position: relative;
+    left: 200px;
+}
